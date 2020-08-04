@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/english/blog/eliza-s-peril.md
 - exampleSite/content/english/blog/testing.md
