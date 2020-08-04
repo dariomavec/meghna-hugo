@@ -4,6 +4,6 @@ date = ""
 description = ""
 image = ""
 image_webp = ""
-title = "Test Post 1"
+title = "Test post 1"
 
 +++
